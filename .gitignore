@@ -1,3 +1,2 @@
-my_checkpoint.pth.tar
-dataset_binar
-dataset
+/roboflow
+/__pycache__
